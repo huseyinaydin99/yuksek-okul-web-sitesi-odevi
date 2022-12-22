@@ -6,8 +6,10 @@
 \
 > Ama ben Adobe Dreamweaver ve Fireworks ile kendim tasarlamıştım.
 
-#### Mehmet Elbistan Hocam:
-![alt text](Mehmet_Elbistan.jpg "Mehmet Elbistan hoca sen çok yaşa")
+#### Biraz komik ama olsun böylede güzel. (:
 
 #### Web Sitesinin Görünümü:
 ![alt text](website.png "Web sitesi görünümü")
+
+#### Mehmet Elbistan Hocam:
+![alt text](Mehmet_Elbistan.jpg "Mehmet Elbistan hoca sen çok yaşa")
