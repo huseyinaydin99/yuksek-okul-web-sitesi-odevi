@@ -6,8 +6,6 @@
 \
 > Ama ben Adobe Dreamweaver ve Fireworks ile kendim tasarlamıştım.
 
-#### Biraz komik ama olsun böylede güzel. (:
-
 #### Web Sitesinin Görünümü:
 ![alt text](website.png "Web sitesi görünümü")
 
